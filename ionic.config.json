@@ -1,0 +1,8 @@
+{
+  "name": "wbe",
+  "app_id": "515dbe40",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
